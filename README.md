@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kartik-banner.png" alt="Kartik Agrawal - Software Engineer & Automation Engineer" width="100%"/>
+<img src="./42d6a939-c45e-4d03-b140-d1d6ccc9956c.png" alt="Kartik Agrawal - Software Engineer & Automation Engineer" width="100%"/>
 
 <br/>
 
