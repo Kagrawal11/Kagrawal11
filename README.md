@@ -2,18 +2,17 @@
 
 # 👋 Hi, I'm Kartik Agrawal
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Automation+Engineer;Building+Enterprise+Automation+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Turning+Complex+Workflows+Into+Reliable+Software" alt="Typing SVG" />
+
+<br/>
+
 <a href="https://github.com/Kagrawal11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Automation+Engineer;Building+Enterprise+Automation+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Turning+complex+workflows+into+reliable+software" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GitHub-Kagrawal11-181717?style=for-the-badge&logo=github" />
 </a>
 
-<p>
-  <a href="https://github.com/Kagrawal11">
-    <img src="https://img.shields.io/github/followers/Kagrawal11?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/Kagrawal11?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Kagrawal11?label=Stars&style=for-the-badge&logo=github&color=181717" />
-  </a>
-</p>
+<a href="https://github.com/Kagrawal11?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -21,15 +20,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer focused on **automation, backend engineering and developer tooling**.
+I'm a **Software Engineer** focused on **automation, backend engineering and developer tooling**.
 
-I enjoy building systems that take repetitive, failure-prone workflows and turn them into **reliable, observable and maintainable software**.
+I enjoy building systems that turn repetitive and failure-prone workflows into **reliable, maintainable and scalable software**.
 
 - 🔭 Currently building **KORTEX** — an enterprise automation platform
-- ⚙️ Interested in **test automation, API engineering & backend systems**
-- 🧩 Building with **Java, Spring Boot, React & PostgreSQL**
-- 🐳 Exploring containerized and production-ready development workflows
-- 🚀 I prefer building complete systems over isolated demos
+- ⚙️ Focused on **automation, backend engineering and API-driven systems**
+- ☕ Building with **Java & Spring Boot**
+- ⚛️ Working with **React & TypeScript**
+- 🗄️ Working with **PostgreSQL & SQL**
+- 🐳 Exploring **Docker & CI/CD workflows**
+- 🚀 Interested in building complete engineering systems, not just isolated demos
 
 ---
 
@@ -37,34 +38,26 @@ I enjoy building systems that take repetitive, failure-prone workflows and turn 
 
 ### ⚡ KORTEX
 
-> Enterprise-grade automation platform designed to simplify and standardize complex automation workflows.
+**Enterprise Automation Platform**
 
-**Core stack**
+A full-stack automation platform focused on simplifying, executing and managing complex automation workflows.
+
+**Core Technologies**
 
 `Java 21` `Spring Boot` `React` `PostgreSQL` `Playwright` `Docker`
 
-**Focus**
+**Engineering Focus**
 
-`Automation` `API Engineering` `Test Execution` `Reporting` `Scalability`
-
----
-
-### 🛠️ PRDEAS
-
-> A developer-focused project built around improving engineering workflows and productivity.
-
-**Focus**
-
-`Developer Productivity` `Automation` `Workflow Engineering`
+`Automation` `API Engineering` `Test Execution` `Reporting` `Workflow Management` `Scalability`
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,ts,js" />
 </p>
 
 ### Backend & Database
@@ -87,21 +80,19 @@ I enjoy building systems that take repetitive, failure-prone workflows and turn 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 <div align="center">
-
-<a href="https://github.com/Kagrawal11">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kagrawal11&repo=KORTEX&theme=tokyonight&hide_border=true" />
-</a>
 
 <a href="https://github.com/Kagrawal11">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kagrawal11&repo=PRDEAS&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+<a href="https://github.com/Kagrawal11">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kagrawal11&repo=KORTEX&theme=tokyonight&hide_border=true" />
+</a>
 
-> **Note:** Once the exact repository names are confirmed, these cards will point directly to them.
+</div>
 
 ---
 
@@ -109,13 +100,13 @@ I enjoy building systems that take repetitive, failure-prone workflows and turn 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -125,21 +116,44 @@ I enjoy building systems that take repetitive, failure-prone workflows and turn 
 
 ---
 
-## 🐍 Contribution Activity
+## 🎯 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kagrawal11/Kagrawal11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+### Build → Automate → Test → Observe → Improve
+
+</div>
+
+I believe good engineering isn't just about making something work.
+
+It's about making it **reliable, maintainable and easy to evolve.**
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kagrawal11&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🎯 Engineering Philosophy
+## 🤝 Let's Connect
 
-```text
-Build it.
-Automate it.
-Test it.
-Observe it.
-Improve it.
+<div align="center">
+
+<a href="https://github.com/Kagrawal11">
+<img src="https://img.shields.io/badge/GitHub-Kagrawal11-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
