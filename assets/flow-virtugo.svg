@@ -10,47 +10,47 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <line x1="95" y1="96" x2="665" y2="96" stroke="#3b2e54" stroke-width="3"/>
-  <line x1="95" y1="96" x2="665" y2="96" stroke="#A855F7" stroke-width="3" stroke-dasharray="6 10" opacity="0.55">
+  <line x1="95" y1="96" x2="665" y2="96" stroke="#2E3B47" stroke-width="3"/>
+  <line x1="95" y1="96" x2="665" y2="96" stroke="#3B6E8F" stroke-width="3" stroke-dasharray="6 10" opacity="0.55">
     <animate attributeName="stroke-dashoffset" values="0;-160" dur="6s" repeatCount="indefinite"/>
   </line>
-  <circle r="7" fill="#FFD400" filter="url(#glowY)">
+  <circle r="7" fill="#F2A93B" filter="url(#glowY)">
     <animate attributeName="cx" values="95;665" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="96;96" dur="6s" repeatCount="indefinite"/>
   </circle>
   
   <g transform="translate(95,96)">
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
-      <animate attributeName="stroke" values="#FFD400;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.001;0.1;1" dur="6s" repeatCount="indefinite"/>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#10161C" stroke="#24425A" stroke-width="2">
+      <animate attributeName="stroke" values="#F2A93B;#F2A93B;#24425A;#24425A" keyTimes="0;0.001;0.1;1" dur="6s" repeatCount="indefinite"/>
     </rect>
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#3B6E8F">
       <animate attributeName="fill-opacity" values="0.16;0.16;0;0" keyTimes="0;0.001;0.1;1" dur="6s" repeatCount="indefinite"/>
     </rect>
     <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">BROWSE</text>
   </g>
   <g transform="translate(285,96)">
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
-      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.2733;0.3333;0.4233;1" dur="6s" repeatCount="indefinite"/>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#10161C" stroke="#24425A" stroke-width="2">
+      <animate attributeName="stroke" values="#24425A;#24425A;#F2A93B;#24425A;#24425A" keyTimes="0;0.2733;0.3333;0.4233;1" dur="6s" repeatCount="indefinite"/>
     </rect>
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#3B6E8F">
       <animate attributeName="fill-opacity" values="0;0;0.16;0;0" keyTimes="0;0.2733;0.3333;0.4233;1" dur="6s" repeatCount="indefinite"/>
     </rect>
     <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">BOOK</text>
   </g>
   <g transform="translate(475,96)">
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
-      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.6067;0.6667;0.7567;1" dur="6s" repeatCount="indefinite"/>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#10161C" stroke="#24425A" stroke-width="2">
+      <animate attributeName="stroke" values="#24425A;#24425A;#F2A93B;#24425A;#24425A" keyTimes="0;0.6067;0.6667;0.7567;1" dur="6s" repeatCount="indefinite"/>
     </rect>
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#3B6E8F">
       <animate attributeName="fill-opacity" values="0;0;0.16;0;0" keyTimes="0;0.6067;0.6667;0.7567;1" dur="6s" repeatCount="indefinite"/>
     </rect>
     <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">PAY</text>
   </g>
   <g transform="translate(665,96)">
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
-      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#FFD400" keyTimes="0;0.9;0.97;1" dur="6s" repeatCount="indefinite"/>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#10161C" stroke="#24425A" stroke-width="2">
+      <animate attributeName="stroke" values="#24425A;#24425A;#F2A93B;#F2A93B" keyTimes="0;0.9;0.97;1" dur="6s" repeatCount="indefinite"/>
     </rect>
-    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#3B6E8F">
       <animate attributeName="fill-opacity" values="0;0;0.16;0.16" keyTimes="0;0.9;0.97;1" dur="6s" repeatCount="indefinite"/>
     </rect>
     <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">CONFIRM</text>

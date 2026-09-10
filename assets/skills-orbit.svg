@@ -11,55 +11,55 @@
     </filter>
   </defs>
   <g transform="translate(240,240)">
-    <circle r="170" fill="none" stroke="#251c37" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <circle r="170" fill="none" stroke="#1C2830" stroke-width="1.5" stroke-dasharray="3 6"/>
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="26s" repeatCount="indefinite"/>
       
-    <line x1="0" y1="0" x2="0.0" y2="-170.0" stroke="#3b2e54" stroke-width="2"/>
+    <line x1="0" y1="0" x2="0.0" y2="-170.0" stroke="#2E3B47" stroke-width="2"/>
     <g transform="translate(0.0,-170.0)">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite" additive="sum"/>
-      <circle r="52" fill="#120F1B" stroke="#A855F7" stroke-width="2">
-        <animate attributeName="stroke" values="#A855F7;#FFD400;#A855F7" dur="4s" begin="0s" repeatCount="indefinite"/>
+      <circle r="52" fill="#10161C" stroke="#3B6E8F" stroke-width="2">
+        <animate attributeName="stroke" values="#3B6E8F;#F2A93B;#3B6E8F" dur="4s" begin="0s" repeatCount="indefinite"/>
       </circle>
-      <circle r="52" fill="#A855F7" opacity="0.12"/>
+      <circle r="52" fill="#3B6E8F" opacity="0.12"/>
       <text x="0" y="-3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#E2E8F0">BACKEND</text>
-      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#a89fc2">Java · Spring · REST</text>
+      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#93A3AE">Java · Spring · REST</text>
     </g>
-    <line x1="0" y1="0" x2="170.0" y2="0.0" stroke="#3b2e54" stroke-width="2"/>
+    <line x1="0" y1="0" x2="170.0" y2="0.0" stroke="#2E3B47" stroke-width="2"/>
     <g transform="translate(170.0,0.0)">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite" additive="sum"/>
-      <circle r="52" fill="#120F1B" stroke="#A855F7" stroke-width="2">
-        <animate attributeName="stroke" values="#A855F7;#FFD400;#A855F7" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+      <circle r="52" fill="#10161C" stroke="#3B6E8F" stroke-width="2">
+        <animate attributeName="stroke" values="#3B6E8F;#F2A93B;#3B6E8F" dur="4s" begin="0.6s" repeatCount="indefinite"/>
       </circle>
-      <circle r="52" fill="#A855F7" opacity="0.12"/>
+      <circle r="52" fill="#3B6E8F" opacity="0.12"/>
       <text x="0" y="-3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#E2E8F0">DATA</text>
-      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#a89fc2">PostgreSQL · MySQL</text>
+      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#93A3AE">PostgreSQL · MySQL</text>
     </g>
-    <line x1="0" y1="0" x2="0.0" y2="170.0" stroke="#3b2e54" stroke-width="2"/>
+    <line x1="0" y1="0" x2="0.0" y2="170.0" stroke="#2E3B47" stroke-width="2"/>
     <g transform="translate(0.0,170.0)">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite" additive="sum"/>
-      <circle r="52" fill="#120F1B" stroke="#A855F7" stroke-width="2">
-        <animate attributeName="stroke" values="#A855F7;#FFD400;#A855F7" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+      <circle r="52" fill="#10161C" stroke="#3B6E8F" stroke-width="2">
+        <animate attributeName="stroke" values="#3B6E8F;#F2A93B;#3B6E8F" dur="4s" begin="1.2s" repeatCount="indefinite"/>
       </circle>
-      <circle r="52" fill="#A855F7" opacity="0.12"/>
+      <circle r="52" fill="#3B6E8F" opacity="0.12"/>
       <text x="0" y="-3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#E2E8F0">AUTOMATION</text>
-      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#a89fc2">Playwright · CI</text>
+      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#93A3AE">Playwright · CI</text>
     </g>
-    <line x1="0" y1="0" x2="-170.0" y2="0.0" stroke="#3b2e54" stroke-width="2"/>
+    <line x1="0" y1="0" x2="-170.0" y2="0.0" stroke="#2E3B47" stroke-width="2"/>
     <g transform="translate(-170.0,0.0)">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite" additive="sum"/>
-      <circle r="52" fill="#120F1B" stroke="#A855F7" stroke-width="2">
-        <animate attributeName="stroke" values="#A855F7;#FFD400;#A855F7" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+      <circle r="52" fill="#10161C" stroke="#3B6E8F" stroke-width="2">
+        <animate attributeName="stroke" values="#3B6E8F;#F2A93B;#3B6E8F" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/>
       </circle>
-      <circle r="52" fill="#A855F7" opacity="0.12"/>
+      <circle r="52" fill="#3B6E8F" opacity="0.12"/>
       <text x="0" y="-3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#E2E8F0">DELIVERY</text>
-      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#a89fc2">Docker · K8s</text>
+      <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#93A3AE">Docker · K8s</text>
     </g>
     </g>
-    <circle r="54" fill="#0B0B0F" stroke="#FFD400" stroke-width="2.5" filter="url(#glowY)">
+    <circle r="54" fill="#0B0B0F" stroke="#F2A93B" stroke-width="2.5" filter="url(#glowY)">
       <animate attributeName="r" values="54;58;54" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <text x="0" y="-4" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#FFD400">KARTIK</text>
+    <text x="0" y="-4" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#F2A93B">KARTIK</text>
     <text x="0" y="14" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" fill="#c9c3da">core</text>
   </g>
 </svg>

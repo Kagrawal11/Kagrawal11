@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+systems+%7C+Automation+%7C+API+engineering;Reliability+is+a+design+decision%2C+not+an+afterthought.;Currently%3A+feeding+my+contribution+graph+to+Pac-Man+%F0%9F%91%BE" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=3B6E8F&center=true&vCenter=true&width=850&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+systems+%7C+Automation+%7C+API+engineering;Reliability+is+a+design+decision%2C+not+an+afterthought.;Currently%3A+feeding+my+contribution+graph+to+Pac-Man+%F0%9F%91%BE" alt="Typing"/>
 
 <br/><br/>
 
@@ -82,7 +82,7 @@ KORTEX starts from a different assumption:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-A855F7?style=for-the-badge&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-3B6E8F?style=for-the-badge&labelColor=0B0B0F"/>
 
 </div>
 
@@ -192,12 +192,12 @@ A full booking workflow that has to keep application state, database state, and 
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-21-0B0B0F?style=for-the-badge&logo=openjdk&logoColor=A855F7&labelColor=0B0B0F"/>
-<img src="https://img.shields.io/badge/Spring_Boot-3-0B0B0F?style=for-the-badge&logo=springboot&logoColor=A855F7&labelColor=0B0B0F"/>
-<img src="https://img.shields.io/badge/Playwright-0B0B0F?style=for-the-badge&logo=playwright&logoColor=A855F7&labelColor=0B0B0F"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B0B0F?style=for-the-badge&logo=postgresql&logoColor=A855F7&labelColor=0B0B0F"/>
-<img src="https://img.shields.io/badge/Docker-0B0B0F?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0B0B0F"/>
-<img src="https://img.shields.io/badge/Kubernetes-0B0B0F?style=for-the-badge&logo=kubernetes&logoColor=A855F7&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Java-21-0B0B0F?style=for-the-badge&logo=openjdk&logoColor=3B6E8F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Spring_Boot-3-0B0B0F?style=for-the-badge&logo=springboot&logoColor=3B6E8F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Playwright-0B0B0F?style=for-the-badge&logo=playwright&logoColor=3B6E8F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B0B0F?style=for-the-badge&logo=postgresql&logoColor=3B6E8F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Docker-0B0B0F?style=for-the-badge&logo=docker&logoColor=3B6E8F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Kubernetes-0B0B0F?style=for-the-badge&logo=kubernetes&logoColor=3B6E8F&labelColor=0B0B0F"/>
 
 </div>
 
@@ -211,13 +211,13 @@ A full booking workflow that has to keep application state, database state, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=C084FC&icon_color=A855F7&text_color=E2E8F0&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=8FB4CC&icon_color=3B6E8F&text_color=E2E8F0&count_private=true&include_all_commits=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com/?user=Kagrawal11&hide_border=true&background=0B0B0F&ring=A855F7&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&stroke=2B2140" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Kagrawal11&hide_border=true&background=0B0B0F&ring=3B6E8F&fire=F2A93B&currStreakLabel=8FB4CC&sideLabels=8FB4CC&dates=6FA8C9&stroke=1B2530" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=C084FC&text_color=E2E8F0&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=8FB4CC&text_color=E2E8F0&langs_count=8" width="45%"/>
 
 </div>
 
@@ -329,7 +329,7 @@ BACKEND
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:4C1D95,100:A855F7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:24425A,100:3B6E8F&height=120&section=footer" width="100%"/>
 
 </div>
 
