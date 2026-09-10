@@ -36,63 +36,13 @@
 
 ### I build the parts of the product nobody screenshots — and everybody depends on.
 
-My day-to-day is **backend engineering: APIs, data models, and the automation that keeps them honest.**
-
-The job, reduced to one loop:
-
 **understand the workflow → model it correctly → automate the boring part → make failure loud, not silent.**
-
-</div>
 
 <br/>
 
-<table>
-<tr>
-<td width="25%" align="center">
+<img src="assets/skills-orbit.svg" width="420" alt="Skills orbit: Backend, Data, Automation, and Delivery circling a core"/>
 
-### BACKEND
-
-Java 21
-Spring Boot
-REST APIs
-JPA / Hibernate
-
-</td>
-
-<td width="25%" align="center">
-
-### DATA
-
-PostgreSQL
-MySQL
-Schema Design
-Migrations
-
-</td>
-
-<td width="25%" align="center">
-
-### AUTOMATION
-
-Playwright
-Execution Engines
-Workflow Automation
-API Testing
-
-</td>
-
-<td width="25%" align="center">
-
-### DELIVERY
-
-Docker
-Kubernetes
-Git
-CI / CD
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -110,63 +60,23 @@ CI / CD
 
 **Record → Model → Execute → Observe**
 
-<br/>
-
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### THE PROBLEM
-
-Automation systems tend to rot as workflows grow:
-
-Hard-coded scripts.
-
-Test logic scattered across five places.
-
-No visibility into why a run failed at 3am.
-
-Execution that breaks the moment the UI shifts a pixel.
+Automation systems tend to rot as workflows grow: hard-coded scripts, test logic scattered across five places, no visibility into why a run failed at 3am, execution that breaks the moment the UI shifts a pixel.
 
 KORTEX starts from a different assumption:
 
 > **Automation should be a platform with contracts, not a folder of scripts held together by hope.**
 
-</td>
-
-<td width="50%" valign="top">
-
-### THE APPROACH
-
-One pipeline, five honest layers:
-
-**Human intent**
-
-↓
-
-**Workflow definition**
-
-↓
-
-**Automation model**
-
-↓
-
-**Execution runtime**
-
-↓
-
-**Results & observability**
-
-</td>
-</tr>
-</table>
+<div align="center">
 
 <br/>
 
-<div align="center">
+<img src="assets/flow-kortex.svg" width="100%" alt="Kortex pipeline: intent, workflow, model, runtime, observe"/>
+
+<br/>
 
 `Java 21`   `Spring Boot`   `PostgreSQL`   `React`   `Playwright`   `Docker`
 
@@ -206,7 +116,7 @@ A multi-language coding platform built around asynchronous submission and execut
 * Database-backed persistence
 * API-driven architecture
 
-<br/>
+<img src="assets/flow-coderspoint.svg" width="100%" alt="Coders Point lifecycle: submit, queue, execute, verdict"/>
 
 `Node.js` `Express` `React`
 `PostgreSQL` `Prisma` `Judge0`
@@ -230,7 +140,7 @@ A full booking workflow that has to keep application state, database state, and 
 * Payment integration
 * Frontend/backend coordination
 
-<br/>
+<img src="assets/flow-virtugo.svg" width="100%" alt="Virtugo lifecycle: browse, book, pay, confirm"/>
 
 `Java` `Spring Boot` `React`
 `MySQL` `JPA` `Razorpay`
@@ -250,39 +160,7 @@ A full booking workflow that has to keep application state, database state, and 
 
 <div align="center">
 
-```text
-        REAL-WORLD PROBLEM
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   MODEL IT      │
-        │ data + domain   │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │  DEFINE CONTRACT│
-        │      APIs       │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │  BUILD THE CORE │
-        │  reliable first │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ AUTOMATE + TEST │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ OBSERVE + TUNE  │
-        └────────┬────────┘
-                 │
-                 └───────► IMPROVE
-```
+<img src="assets/engineer-loop.svg" width="100%" alt="Engineering loop: model, contract, build, automate, observe, improve, back to model"/>
 
 </div>
 
@@ -376,7 +254,9 @@ A full booking workflow that has to keep application state, database state, and 
 
 <td width="33%" align="center">
 
-### 🏆 3RD PRIZE
+<img src="assets/badge-trophy.svg" width="80" alt="Trophy badge"/>
+
+### 3RD PRIZE
 
 **Project Expo 2023**
 
@@ -387,7 +267,9 @@ Charging System
 
 <td width="33%" align="center">
 
-### 📄 RESEARCH
+<img src="assets/badge-research.svg" width="80" alt="Research badge"/>
+
+### RESEARCH
 
 **AIP Conference Proceedings · 2023**
 
@@ -398,7 +280,9 @@ Smart Attendance System
 
 <td width="33%" align="center">
 
-### 🎓 EDUCATION
+<img src="assets/badge-education.svg" width="80" alt="Education badge"/>
+
+### EDUCATION
 
 **PG-DAC — CDAC**
 

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="100%" role="img" aria-label="flow-kortex.svg flow diagram">
+  <title>flow-kortex.svg flow diagram</title>
+  <defs>
+    <filter id="glowY" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowP" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <line x1="95" y1="96" x2="905" y2="96" stroke="#3b2e54" stroke-width="3"/>
+  <line x1="95" y1="96" x2="905" y2="96" stroke="#A855F7" stroke-width="3" stroke-dasharray="6 10" opacity="0.55">
+    <animate attributeName="stroke-dashoffset" values="0;-160" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <circle r="7" fill="#FFD400" filter="url(#glowY)">
+    <animate attributeName="cx" values="95;905" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="96;96" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  
+  <g transform="translate(95,96)">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
+      <animate attributeName="stroke" values="#FFD400;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.001;0.1;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+      <animate attributeName="fill-opacity" values="0.16;0.16;0;0" keyTimes="0;0.001;0.1;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">INTENT</text>
+  </g>
+  <g transform="translate(297.5,96)">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
+      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.19;0.25;0.34;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+      <animate attributeName="fill-opacity" values="0;0;0.16;0;0" keyTimes="0;0.19;0.25;0.34;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">WORKFLOW</text>
+  </g>
+  <g transform="translate(500,96)">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
+      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.44;0.5;0.59;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+      <animate attributeName="fill-opacity" values="0;0;0.16;0;0" keyTimes="0;0.44;0.5;0.59;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">MODEL</text>
+  </g>
+  <g transform="translate(702.5,96)">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
+      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#4C1D95;#4C1D95" keyTimes="0;0.69;0.75;0.84;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+      <animate attributeName="fill-opacity" values="0;0;0.16;0;0" keyTimes="0;0.69;0.75;0.84;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">RUNTIME</text>
+  </g>
+  <g transform="translate(905,96)">
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#120F1B" stroke="#4C1D95" stroke-width="2">
+      <animate attributeName="stroke" values="#4C1D95;#4C1D95;#FFD400;#FFD400" keyTimes="0;0.9;0.97;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-75" y="-28" width="150" height="56" rx="28" fill="#A855F7">
+      <animate attributeName="fill-opacity" values="0;0;0.16;0.16" keyTimes="0;0.9;0.97;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">OBSERVE</text>
+  </g>
+</svg>
