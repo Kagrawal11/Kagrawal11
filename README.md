@@ -317,13 +317,13 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&theme=dracula&hide_border=true&bg_color=0B0B0F&title_color=C084FC&icon_color=A855F7&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kagrawal11&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=C084FC&icon_color=A855F7&text_color=E2E8F0&count_private=true&include_all_commits=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=Kagrawal11&theme=dracula&hide_border=true&background=0B0B0F&ring=A855F7&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Kagrawal11&hide_border=true&background=0B0B0F&ring=A855F7&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&stroke=2B2140" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&theme=dracula&hide_border=true&bg_color=0B0B0F&title_color=C084FC&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagrawal11&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=C084FC&text_color=E2E8F0&langs_count=8" width="45%"/>
 
 </div>
 
