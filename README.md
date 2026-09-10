@@ -1,10 +1,14 @@
 <div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0F&height=180&section=header&text=KARTIK%20AGRAWAL&fontSize=52&fontColor=FFFFFF&fontAlignY=48&desc=BACKEND%20ENGINEER%20%2F%20SYSTEMS%20%2F%20AUTOMATION&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+systems+%7C+Automation+%7C+API+engineering;Build+systems+that+are+reliable+by+design." alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+systems+%7C+Automation+%7C+API+engineering;Reliability+is+a+design+decision%2C+not+an+afterthought.;Currently%3A+feeding+my+contribution+graph+to+Pac-Man+%F0%9F%91%BE" alt="Typing"/>
 
 <br/><br/>
 
@@ -12,9 +16,9 @@
 <img src="https://img.shields.io/badge/GITHUB-Kagrawal11-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B0F"/>
 </a>
 
- 
+ 
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/kagrawal11/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0B0F"/>
 </a>
 
@@ -22,19 +26,21 @@
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
-## `01` — ENGINEERING, NOT JUST CODE
+## `01` — SYSTEMS OVER SPOTLIGHT
 
 <div align="center">
 
-### I build the systems behind the experience.
+### I build the parts of the product nobody screenshots — and everybody depends on.
 
-I work primarily on **backend engineering, automation infrastructure, APIs, and data-driven systems**.
+My day-to-day is **backend engineering: APIs, data models, and the automation that keeps them honest.**
 
-My focus is simple:
+The job, reduced to one loop:
 
-**take a complicated workflow → model it → automate it → make it reliable.**
+**understand the workflow → model it correctly → automate the boring part → make failure loud, not silent.**
 
 </div>
 
@@ -90,7 +96,9 @@ CI / CD
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `02` — CURRENTLY BUILDING
 
@@ -112,19 +120,19 @@ CI / CD
 
 ### THE PROBLEM
 
-Modern automation systems often become difficult to maintain as workflows grow.
+Automation systems tend to rot as workflows grow:
 
 Hard-coded scripts.
 
-Scattered test logic.
+Test logic scattered across five places.
 
-Poor visibility.
+No visibility into why a run failed at 3am.
 
-Fragile execution.
+Execution that breaks the moment the UI shifts a pixel.
 
-KORTEX is being built around a different idea:
+KORTEX starts from a different assumption:
 
-> **Automation should behave like a platform, not a collection of scripts.**
+> **Automation should be a platform with contracts, not a folder of scripts held together by hope.**
 
 </td>
 
@@ -132,7 +140,7 @@ KORTEX is being built around a different idea:
 
 ### THE APPROACH
 
-A layered architecture connecting:
+One pipeline, five honest layers:
 
 **Human intent**
 
@@ -160,7 +168,7 @@ A layered architecture connecting:
 
 <div align="center">
 
-`Java 21`   `Spring Boot`   `PostgreSQL`   `React`   `Playwright`   `Docker`
+`Java 21`   `Spring Boot`   `PostgreSQL`   `React`   `Playwright`   `Docker`
 
 <br/><br/>
 
@@ -170,7 +178,9 @@ A layered architecture connecting:
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `03` — SELECTED SYSTEMS
 
@@ -185,7 +195,7 @@ A layered architecture connecting:
 
 **Online Judge & Execution Engine**
 
-A multi-language coding platform built around asynchronous submission and execution.
+A multi-language coding platform built around asynchronous submission and execution — the part that's easy to demo and hard to get right under load.
 
 **Engineering focus**
 
@@ -209,7 +219,7 @@ A multi-language coding platform built around asynchronous submission and execut
 
 **Tour Booking Platform**
 
-A complete booking workflow connecting application logic, database state, and payment processing.
+A full booking workflow that has to keep application state, database state, and a payment provider all telling the same story.
 
 **Engineering focus**
 
@@ -232,7 +242,9 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `04` — HOW I ENGINEER
 
@@ -276,11 +288,13 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <br/>
 
-> **Good engineering hides complexity instead of passing it to the user.**
+> **Good engineering hides complexity instead of handing it to the user — or to the next engineer.**
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `05` — TECHNICAL ARSENAL
 
@@ -311,7 +325,9 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `06` — ENGINEERING SIGNAL
 
@@ -329,7 +345,9 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `07` — CONTRIBUTION MATRIX
 
@@ -345,7 +363,9 @@ A complete booking workflow connecting application logic, database state, and pa
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `08` — OUTSIDE THE REPOSITORY
 
@@ -398,7 +418,9 @@ enterprise development
 
 <br/>
 
----
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
+</div>
 
 ## `09` — CURRENT DIRECTION
 
@@ -425,4 +447,8 @@ BACKEND
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:4C1D95,100:A855F7&height=120&section=footer" width="100%"/>
 
+</div>
+
+<div align="center">
+<img src="assets/pacman-divider.svg" width="100%" alt="Pac-Man divider"/>
 </div>
